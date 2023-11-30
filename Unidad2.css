@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+    margin-top: 20px;
+}
+
+p {
+    color: #777;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+/* Agregar estilos específicos para los subtítulos si es necesario */
+h3 {
+    color: #999;
+}
+
+/* Agregar estilos específicos para los enlaces si es necesario */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
